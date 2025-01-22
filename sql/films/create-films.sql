@@ -6,4 +6,3 @@ CREATE TABLE films(
     score int,
     unique(title)
 )
-
